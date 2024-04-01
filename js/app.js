@@ -67,17 +67,17 @@ const projects = [
     vercelLink: "https://create-x-project.vercel.app",
   },
 
-  {
-    title: "",
-    githubLink: "",
-    vercelLink: "",
-  },
+  // {
+  //   title: "",
+  //   githubLink: "",
+  //   vercelLink: "",
+  // },
 
-  {
-    title: "",
-    githubLink: "",
-    vercelLink: "",
-  },
+  // {
+  //   title: "",
+  //   githubLink: "",
+  //   vercelLink: "",
+  // },
 
 
 
