@@ -67,17 +67,17 @@ const projects = [
     vercelLink: "https://create-x-project.vercel.app",
   },
 
-  // {
-  //   title: "",
-  //   githubLink: "",
-  //   vercelLink: "",
-  // },
+  {
+    title: "CSS Animation",
+    githubLink: "https://github.com/abdulvokhidjon/CSS-Animation.git",
+    vercelLink: "https://css-animation-alpha.vercel.app/",
+  },
 
-  // {
-  //   title: "",
-  //   githubLink: "",
-  //   vercelLink: "",
-  // },
+  {
+    title: "Crowfunding Project",
+    githubLink: "https://github.com/abdulvokhidjon/Crowfunding-Project.git",
+    vercelLink: "https://crowfunding-project-inky.vercel.app/",
+  },
 
 
 
