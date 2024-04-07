@@ -79,6 +79,18 @@ const projects = [
     vercelLink: "https://crowfunding-project-inky.vercel.app/",
   },
 
+  {
+    title: "My Team Project",
+    githubLink: "https://github.com/abdulvokhidjon/My-Team.git",
+    vercelLink: "https://my-team-jet.vercel.app/",
+  },
+
+  {
+    title: "Designo Project",
+    githubLink: "https://github.com/abdulvokhidjon/Designo-Project.git",
+    vercelLink: "https://designo-project-two.vercel.app/",
+  },
+
 
 
 
