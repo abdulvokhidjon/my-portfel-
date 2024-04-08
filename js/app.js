@@ -63,8 +63,8 @@ const projects = [
 
   {
     title: "Create-X-Project",
-    githubLink: "https://github.com/abdulvokhidjon/Create-X-project.git",
-    vercelLink: "https://create-x-project.vercel.app",
+    githubLink: "https://github.com/abdulvokhidjon/Create-X-Project..git",
+    vercelLink: "https://create-x-project-updated.vercel.app/",
   },
 
   {
