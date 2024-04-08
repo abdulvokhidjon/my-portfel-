@@ -80,13 +80,13 @@ const projects = [
   },
 
   {
-    title: "My Team Project",
-    githubLink: "https://github.com/abdulvokhidjon/My-Team.git",
+    title: "My Team Project --> for EXAM",
+    githubLink: "https://github.com/abdulvokhidjon/My-Team-Project.git",
     vercelLink: "https://my-team-jet.vercel.app/",
   },
 
   {
-    title: "Designo Project",
+    title: "Designo Project --> for next EXAM :)",
     githubLink: "https://github.com/abdulvokhidjon/Designo-Project..git",
     vercelLink: "https://designo-project-exam.vercel.app/",
   },
