@@ -87,8 +87,8 @@ const projects = [
 
   {
     title: "Designo Project",
-    githubLink: "https://github.com/abdulvokhidjon/Designo-Project.git",
-    vercelLink: "https://designo-project-two.vercel.app/",
+    githubLink: "https://github.com/abdulvokhidjon/Designo-Project..git",
+    vercelLink: "https://designo-project-exam.vercel.app/",
   },
 
 
