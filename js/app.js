@@ -91,6 +91,12 @@ const projects = [
     vercelLink: "https://designo-project-exam.vercel.app/",
   },
 
+  {
+    title: "First practice in Javascript",
+    githubLink: "https://github.com/abdulvokhidjon/First-practice-in-Javascript.git",
+    vercelLink: "https://first-practice-in-javascript.vercel.app/",
+  },
+
 
 
 
