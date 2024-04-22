@@ -93,9 +93,18 @@ const projects = [
 
   {
     title: "First practice in Javascript",
-    githubLink: "https://github.com/abdulvokhidjon/First-practice-in-Javascript.git",
-    vercelLink: "https://first-practice-in-javascript.vercel.app/",
+    githubLink: "https://github.com/abdulvokhidjon/First-practice-in-Javascript....git",
+    vercelLink: "https://first-practice-in-javascript.vercel.app//",
   },
+
+  {
+    title: "If,Boolean,For",
+    githubLink: "https://github.com/abdulvokhidjon/IF-BOOLEAN-FOR.git",
+    vercelLink: "https://if-boolean-for.vercel.app/",
+  },
+
+
+
 
 
 
