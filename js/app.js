@@ -109,6 +109,12 @@ const projects = [
     vercelLink: "https://for-4-dars-1soz.vercel.app/",
   },
 
+  {
+    title: "FUNCTIONS|5-dars",
+    githubLink: "https://github.com/abdulvokhidjon/Function-5-Dars.git",
+    vercelLink: "https://function-5-dars.vercel.app/",
+  },
+
 
 
 
