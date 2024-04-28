@@ -115,6 +115,14 @@ const projects = [
     vercelLink: "https://function-5-dars.vercel.app/",
   },
 
+  {
+    title: "Design-Portfolio Project",
+    githubLink: "https://github.com/abdulvokhidjon/Design-Portfolio.git",
+    vercelLink: "https://design-portfolio-iota-nine.vercel.app/",
+  },
+
+  
+
 
 
 
