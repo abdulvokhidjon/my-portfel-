@@ -121,6 +121,14 @@ const projects = [
     vercelLink: "https://design-portfolio-iota-nine.vercel.app/",
   },
 
+  {
+    title: "Array | 7-Dars",
+    githubLink: "https://github.com/abdulvokhidjon/Array-7-dars.git",
+    vercelLink: "https://array-7-dars.vercel.app/",
+  },
+
+  
+
   
 
 
