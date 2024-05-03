@@ -127,6 +127,12 @@ const projects = [
     vercelLink: "https://array-7-dars.vercel.app/",
   },
 
+  {
+    title: "Array | 8-Dars",
+    githubLink: "https://github.com/abdulvokhidjon/Array-8-dars.git",
+    vercelLink: "https://array-8-dars.vercel.app/",
+  },
+
   
 
   
