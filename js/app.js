@@ -151,6 +151,13 @@ const projects = [
     vercelLink: "https://4-exam-last.vercel.app/",
   },
 
+  {
+    title: "The King of Bollywood | MODAL | 5.2-homework",
+    githubLink: "https://github.com/abdulvokhidjon/The-King-of-Bollywood---MODAL.git",
+    vercelLink: "http://127.0.0.1:5501/index.html",
+  },
+
+
 
   
 
