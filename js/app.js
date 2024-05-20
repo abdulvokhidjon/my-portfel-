@@ -157,6 +157,12 @@ const projects = [
     vercelLink: "http://127.0.0.1:5501/index.html",
   },
 
+  {
+    title: "Random-Color-Generator | 5.3-homework",
+    githubLink: "https://github.com/abdulvokhidjon/Random-Color-Generator---5.3-homework.git",
+    vercelLink: "https://random-color-generator-5-3-homework.vercel.app/",
+  },
+
 
 
   
