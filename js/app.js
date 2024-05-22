@@ -163,6 +163,14 @@ const projects = [
     vercelLink: "https://random-color-generator-5-3-homework.vercel.app/",
   },
 
+  {
+    title: "Drum-Kit Project | 5.4-homework",
+    githubLink: "https://github.com/abdulvokhidjon/Drum-Kit-5.4-homework.git",
+    vercelLink: "https://drum-kit-5-4-homework.vercel.app/",
+  },
+
+  
+
 
 
   
