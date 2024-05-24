@@ -169,6 +169,12 @@ const projects = [
     vercelLink: "https://drum-kit-5-4-homework.vercel.app/",
   },
 
+  {
+    title: "Music Player Project | 5.5-homework",
+    githubLink: "https://github.com/abdulvokhidjon/Music-Player-5.5-homework.gitt",
+    vercelLink: "https://music-player-5-5-homework.vercel.app/",
+  },
+
   
 
 
