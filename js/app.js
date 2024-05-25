@@ -171,8 +171,14 @@ const projects = [
 
   {
     title: "Music Player Project | 5.5-homework",
-    githubLink: "https://github.com/abdulvokhidjon/Music-Player-5.5-homework.gitt",
+    githubLink: "https://github.com/abdulvokhidjon/Music-Player-5.5-homework.git",
     vercelLink: "https://music-player-5-5-homework.vercel.app/",
+  },
+
+  {
+    title: "Number Guessing Game | 5.6-homework",
+    githubLink: "https://github.com/abdulvokhidjon/Number-Guessing-Game-5.6-homework.git",
+    vercelLink: "https://number-guessing-game-5-6-homework.vercel.app/",
   },
 
   
