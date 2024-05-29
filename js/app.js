@@ -181,6 +181,18 @@ const projects = [
     vercelLink: "https://number-guessing-game-5-6-homework.vercel.app/",
   },
 
+  {
+    title: "To Do list Project | 5.7.1-homework",
+    githubLink: "https://github.com/abdulvokhidjon/TO-DO--5.7.1-homework.git",
+    vercelLink: "https://to-do-5-7-1-homework.vercel.app/",
+  },
+
+  {
+    title: "Linear Gradient Background | 5.7.2 - homework",
+    githubLink: "https://github.com/abdulvokhidjon/5.7.2-homework.git",
+    vercelLink: "https://5-7-2-homework.vercel.app/",
+  },
+
   
 
 
