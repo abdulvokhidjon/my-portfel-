@@ -193,6 +193,13 @@ const projects = [
     vercelLink: "https://5-7-2-homework.vercel.app/",
   },
 
+  {
+    title: "Random User Generator | 5.9 - homework",
+    githubLink: "https://github.com/abdulvokhidjon/Random-User-Generator---5.9-homework.git",
+    vercelLink: "https://random-user-generator-5-9-homework.vercel.app/",
+  },
+
+
   
 
 
