@@ -51,10 +51,11 @@ const projects = [
   },
   {
     title: "Workshop-BG-Video",
-    githubLink: "https://github.com/abdulvokhidjon/Detective-films-Workshop-BG-Video.git",
+    githubLink:
+      "https://github.com/abdulvokhidjon/Detective-films-Workshop-BG-Video.git",
     vercelLink: "https://detective-films-workshop-bg-video.vercel.app/",
   },
- 
+
   {
     title: "Castaway-Project",
     githubLink: "https://github.com/abdulvokhidjon/Castaway-Project.git",
@@ -93,7 +94,8 @@ const projects = [
 
   {
     title: "First practice in Javascript",
-    githubLink: "https://github.com/abdulvokhidjon/First-practice-in-Javascript....git",
+    githubLink:
+      "https://github.com/abdulvokhidjon/First-practice-in-Javascript....git",
     vercelLink: "https://first-practice-in-javascript.vercel.app//",
   },
 
@@ -153,13 +155,15 @@ const projects = [
 
   {
     title: "The King of Bollywood | MODAL | 5.2-homework",
-    githubLink: "https://github.com/abdulvokhidjon/The-King-of-Bollywood---MODAL.git",
+    githubLink:
+      "https://github.com/abdulvokhidjon/The-King-of-Bollywood---MODAL.git",
     vercelLink: "http://127.0.0.1:5501/index.html",
   },
 
   {
     title: "Random-Color-Generator | 5.3-homework",
-    githubLink: "https://github.com/abdulvokhidjon/Random-Color-Generator---5.3-homework.git",
+    githubLink:
+      "https://github.com/abdulvokhidjon/Random-Color-Generator---5.3-homework.git",
     vercelLink: "https://random-color-generator-5-3-homework.vercel.app/",
   },
 
@@ -171,13 +175,15 @@ const projects = [
 
   {
     title: "Music Player Project | 5.5-homework",
-    githubLink: "https://github.com/abdulvokhidjon/Music-Player-5.5-homework.git",
+    githubLink:
+      "https://github.com/abdulvokhidjon/Music-Player-5.5-homework.git",
     vercelLink: "https://music-player-5-5-homework.vercel.app/",
   },
 
   {
     title: "Number Guessing Game | 5.6-homework",
-    githubLink: "https://github.com/abdulvokhidjon/Number-Guessing-Game-5.6-homework.git",
+    githubLink:
+      "https://github.com/abdulvokhidjon/Number-Guessing-Game-5.6-homework.git",
     vercelLink: "https://number-guessing-game-5-6-homework.vercel.app/",
   },
 
@@ -195,25 +201,10 @@ const projects = [
 
   {
     title: "Random User Generator | 5.9 - homework",
-    githubLink: "https://github.com/abdulvokhidjon/Random-User-Generator---5.9-homework.git",
+    githubLink:
+      "https://github.com/abdulvokhidjon/Random-User-Generator---5.9-homework.git",
     vercelLink: "https://random-user-generator-5-9-homework.vercel.app/",
   },
-
-
-  
-
-
-
-  
-
-  
-
-
-
-
-
-
-
 ];
 
 const template = document.querySelector("template");
@@ -230,5 +221,5 @@ projects.forEach((project) => {
   linkGithub.href = project.githubLink;
   linkVercel.href = project.vercelLink;
 
-  worksList.appendChild(clone);
+  worksList.prepend(clone);
 });
