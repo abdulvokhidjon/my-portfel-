@@ -205,6 +205,13 @@ const projects = [
       "https://github.com/abdulvokhidjon/Random-User-Generator---5.9-homework.git",
     vercelLink: "https://random-user-generator-5-9-homework.vercel.app/",
   },
+
+  {
+    title: "Random User Generator | 5.9 - homework",
+    githubLink:
+      "https://github.com/abdulvokhidjon/Weather-App.5.10-homework.git",
+    vercelLink: "https://weather-app-5-10-homework.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
