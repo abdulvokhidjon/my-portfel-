@@ -207,7 +207,7 @@ const projects = [
   },
 
   {
-    title: "Random User Generator | 5.9 - homework",
+    title: "Weather App | 5.10 - homework",
     githubLink:
       "https://github.com/abdulvokhidjon/Weather-App.5.10-homework.git",
     vercelLink: "https://weather-app-5-10-homework.vercel.app/",
