@@ -210,7 +210,7 @@ const projects = [
     title: "Weather App | 5.10 - homework",
     githubLink:
       "https://github.com/abdulvokhidjon/Weather-App.5.10-homework.git",
-    vercelLink: "http://127.0.0.1:5501/",
+    vercelLink: "https://weather-app-5-10-homework-new.vercel.app/",
   },
 ];
 
