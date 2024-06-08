@@ -212,6 +212,13 @@ const projects = [
       "https://github.com/abdulvokhidjon/Weather-App.5.10-homework-new.git",
     vercelLink: "https://weather-app-5-10-homework-new.vercel.app/",
   },
+
+  {
+    title: "Online Market| 5.11 - homework",
+    githubLink:
+      "https://github.com/abdulvokhidjon/Online-Market.5.10-homework.git",
+    vercelLink: "https://online-market-5-11-homework.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
