@@ -219,6 +219,20 @@ const projects = [
       "https://github.com/abdulvokhidjon/Online-Market.5.10-homework.git",
     vercelLink: "https://online-market-5-11-homework.vercel.app/",
   },
+
+  {
+    title: " Zilol  Market| Part 2 |For Exam",
+    githubLink:
+      "https://github.com/abdulvokhidjon/Online-Market-Web-Site.5-Exam-2.git",
+    vercelLink: "https://online-market-web-site-5-exam-2.vercel.app/",
+  },
+
+  {
+    title: " Zilol  Market| Part 1 |For Exam",
+    githubLink:
+      "https://github.com/abdulvokhidjon/Zilol-Shop---Exam-Part-1.git",
+    vercelLink: "https://zilol-shop-exam-part-1.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
