@@ -233,6 +233,12 @@ const projects = [
       "https://github.com/abdulvokhidjon/Zilol-Shop---Exam-Part-1.git",
     vercelLink: "https://zilol-shop-exam-part-1.vercel.app/",
   },
+  {
+    title: " Create Users | 6.2-homework",
+    githubLink:
+      "https://github.com/abdulvokhidjon/6.2-homework-create-users.git",
+    vercelLink: "http://localhost:5173/",
+  },
 ];
 
 const template = document.querySelector("template");
