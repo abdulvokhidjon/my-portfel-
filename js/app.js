@@ -240,7 +240,7 @@ const projects = [
     vercelLink: "http://localhost:5173/",
   },
   {
-    title: "Top Bestseller books | 6.4-homework",
+    title: "Top 20 Bestseller books | 6.4-homework",
     githubLink:
       "https://github.com/abdulvokhidjon/top-30-bestseller-books-6.4-homework.git",
     vercelLink: "https://top-30-bestseller-books-6-4-homework.vercel.app/",
