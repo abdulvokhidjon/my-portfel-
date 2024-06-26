@@ -245,6 +245,12 @@ const projects = [
       "https://github.com/abdulvokhidjon/top-30-bestseller-books-6.4-homework.git",
     vercelLink: "https://top-30-bestseller-books-6-4-homework.vercel.app/",
   },
+  {
+    title: "Dummy Store Project | 6.5-homework",
+    githubLink:
+      "https://github.com/abdulvokhidjon/Dummy-Store-Project---6.5-homework.git",
+    vercelLink: "https://dummy-store-project-6-5-homework.vercel.app/",
+  },
   
 ];
 
