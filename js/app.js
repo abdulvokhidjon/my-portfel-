@@ -251,6 +251,12 @@ const projects = [
       "https://github.com/abdulvokhidjon/Dummy-Store-Project---6.5-homework.git",
     vercelLink: "https://dummy-store-project-6-5-homework.vercel.app/",
   },
+  {
+    title: "How to create Login and Register pages | 6.7-homework",
+    githubLink:
+      "https://github.com/abdulvokhidjon/Login-Register--Pages-6.7-homework.git",
+    vercelLink: "https://login-register-pages-6-7-homework-8x3t.vercel.app/",
+  },
   
 ];
 
