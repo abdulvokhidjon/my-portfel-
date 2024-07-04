@@ -257,7 +257,11 @@ const projects = [
       "https://github.com/abdulvokhidjon/Login-Register--Pages-6.7-homework.git",
     vercelLink: "https://login-register-pages-6-7-homework-8x3t.vercel.app/",
   },
-  
+  {
+    title: "Create User Profile |  6.8-homework",
+    githubLink: "https://github.com/abdulvokhidjon/Create-User-Profile.git",
+    vercelLink: "https://create-user-profile-rho.vercel.app/register",
+  },
 ];
 
 const template = document.querySelector("template");
