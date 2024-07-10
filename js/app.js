@@ -262,6 +262,11 @@ const projects = [
     githubLink: "https://github.com/abdulvokhidjon/Create-User-Profile.git",
     vercelLink: "https://create-user-profile-rho.vercel.app/register",
   },
+  {
+    title: "Dummy Store  |  6.10-homework",
+    githubLink: "https://github.com/abdulvokhidjon/Basket---6.10-homework.git",
+    vercelLink: "https://basket-6-10-homework.vercel.app/register",
+  },
 ];
 
 const template = document.querySelector("template");
