@@ -267,6 +267,11 @@ const projects = [
     githubLink: "https://github.com/abdulvokhidjon/Basket---6.10-homework.git",
     vercelLink: "https://basket-6-10-homework.vercel.app/register",
   },
+  {
+    title: "To Dos page   |  6.11-homework",
+    githubLink: "https://github.com/abdulvokhidjon/ToDos-page---6.11-homework.git",
+    vercelLink: "https://to-dos-page-6-11-homework.vercel.app/register",
+  },
 ];
 
 const template = document.querySelector("template");
