@@ -272,6 +272,11 @@ const projects = [
     githubLink: "https://github.com/abdulvokhidjon/ToDos-page---6.11-homework.git",
     vercelLink: "https://to-dos-page-6-11-homework.vercel.app",
   },
+  {
+    title: "Make Foods Project   |  For Exam",
+    githubLink: "https://github.com/abdulvokhidjon/MakeFoodsProject.git",
+    vercelLink: "https://make-foods-project.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
