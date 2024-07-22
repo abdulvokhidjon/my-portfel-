@@ -273,9 +273,14 @@ const projects = [
     vercelLink: "https://to-dos-page-6-11-homework.vercel.app",
   },
   {
-    title: "Make Foods Project   |  For Exam",
+    title: "Make Foods Project_1   |  For Exam_1",
     githubLink: "https://github.com/abdulvokhidjon/MakeFoodsProject.git",
     vercelLink: "https://make-foods-project.vercel.app/",
+  },
+  {
+    title: "Make Foods Project_2 |  For Exam_2",
+    githubLink: "https://github.com/abdulvokhidjon/Makes-Foods----For-Exam.git",
+    vercelLink: "https://makes-foods-for-exam-2.vercel.app/",
   },
 ];
 
