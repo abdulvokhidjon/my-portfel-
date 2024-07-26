@@ -269,7 +269,8 @@ const projects = [
   },
   {
     title: "To Dos page   |  6.11-homework",
-    githubLink: "https://github.com/abdulvokhidjon/ToDos-page---6.11-homework.git",
+    githubLink:
+      "https://github.com/abdulvokhidjon/ToDos-page---6.11-homework.git",
     vercelLink: "https://to-dos-page-6-11-homework.vercel.app",
   },
   {
@@ -281,6 +282,12 @@ const projects = [
     title: "Make Foods Project_2 |  For Exam_2",
     githubLink: "https://github.com/abdulvokhidjon/Makes-Foods----For-Exam.git",
     vercelLink: "https://makes-foods-for-exam-2.vercel.app/",
+  },
+  {
+    title: "Desserts Project |  7.2-homework",
+    githubLink:
+      "https://github.com/abdulvokhidjon/Desserts-Project---7.2-homework.git",
+    vercelLink: "https://desserts-project-7-2-homework.vercel.app/",
   },
 ];
 
