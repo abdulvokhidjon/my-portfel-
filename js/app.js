@@ -289,6 +289,12 @@ const projects = [
       "https://github.com/abdulvokhidjon/Desserts-Project---7.2-homework.git",
     vercelLink: "https://desserts-project-7-2-homework.vercel.app/",
   },
+  {
+    title: "Multi Step Form Project |  7.3-homework",
+    githubLink:
+      "https://github.com/abdulvokhidjon/Multi-Step-Form-Project---7.3-homework.git",
+    vercelLink: "https://multi-step-form-project-7-3-homework.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
