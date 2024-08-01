@@ -295,6 +295,13 @@ const projects = [
       "https://github.com/abdulvokhidjon/Multi-Step-Form-Project---7.3-homework.git",
     vercelLink: "https://multi-step-form-project-7-3-homework.vercel.app/",
   },
+  {
+    title: "Login and Register pages via Redux |  7.4,7.5-homework",
+    githubLink:
+      "https://github.com/abdulvokhidjon/Login---Register-pages.git",
+    vercelLink: "https://login-register-pages-gamma.vercel.app/login",
+  },
+  
 ];
 
 const template = document.querySelector("template");
