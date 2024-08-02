@@ -301,6 +301,12 @@ const projects = [
       "https://github.com/abdulvokhidjon/Login---Register-pages.git",
     vercelLink: "https://login-register-pages-gamma.vercel.app/login",
   },
+  {
+    title: "Sahobalar hayoti haqida Quizz test Project |  7.5-homework",
+    githubLink:
+      "https://github.com/abdulvokhidjon/sahobalar-quizzes.git",
+    vercelLink: "https://sahobalar-hayoti-quizzes.vercel.app/",
+  },
   
 ];
 
