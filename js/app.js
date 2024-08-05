@@ -307,6 +307,12 @@ const projects = [
       "https://github.com/abdulvokhidjon/sahobalar-quizzes.git",
     vercelLink: "https://sahobalar-hayoti-quizzes.vercel.app/",
   },
+  {
+    title: "My Random Store Project |  7.6-homework",
+    githubLink:
+      "https://github.com/abdulvokhidjon/AppStore.git",
+    vercelLink: "https://my-store-mocha.vercel.app/login",
+  },
   
 ];
 
