@@ -297,23 +297,25 @@ const projects = [
   },
   {
     title: "Login and Register pages via Redux |  7.4,7.5-homework",
-    githubLink:
-      "https://github.com/abdulvokhidjon/Login---Register-pages.git",
+    githubLink: "https://github.com/abdulvokhidjon/Login---Register-pages.git",
     vercelLink: "https://login-register-pages-gamma.vercel.app/login",
   },
   {
     title: "Sahobalar hayoti haqida Quizz test Project |  7.5-homework",
-    githubLink:
-      "https://github.com/abdulvokhidjon/sahobalar-quizzes.git",
+    githubLink: "https://github.com/abdulvokhidjon/sahobalar-quizzes.git",
     vercelLink: "https://sahobalar-hayoti-quizzes.vercel.app/",
   },
   {
     title: "My Random Store Project |  7.6-homework",
-    githubLink:
-      "https://github.com/abdulvokhidjon/AppStore.git",
+    githubLink: "https://github.com/abdulvokhidjon/AppStore.git",
     vercelLink: "https://my-store-mocha.vercel.app/login",
   },
-  
+  {
+    title: "SingleProduct Page |  7.7-homework",
+    githubLink: "https://github.com/abdulvokhidjon/single-product.git",
+    vercelLink:
+      "https://single-product-page-em7p0zl51-abdulvokhids-projects.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
