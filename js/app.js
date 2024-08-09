@@ -316,6 +316,11 @@ const projects = [
     vercelLink:
       "https://single-product-page-em7p0zl51-abdulvokhids-projects.vercel.app/",
   },
+  {
+    title: "Read Book App |  7.8-homework",
+    githubLink: "https://github.com/abdulvokhidjon/ReadBookApp.git",
+    vercelLink: "https://read-book-app.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
