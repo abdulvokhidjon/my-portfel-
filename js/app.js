@@ -321,6 +321,11 @@ const projects = [
     githubLink: "https://github.com/abdulvokhidjon/ReadBookApp.git",
     vercelLink: "https://read-book-app.vercel.app/",
   },
+  {
+    title: "Dojo Helpdesk |  7.10-homework",
+    githubLink: "https://github.com/abdulvokhidjon/dojo-7.10-homework.git",
+    // vercelLink: "https://read-book-app.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
