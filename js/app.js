@@ -326,6 +326,11 @@ const projects = [
     githubLink: "https://github.com/abdulvokhidjon/dojo-7.10-homework.git",
     // vercelLink: "https://read-book-app.vercel.app/",
   },
+  {
+    title: "Comfy Store Project |  For 7^th Exam",
+    githubLink: "https://github.com/abdulvokhidjon/comfy_store.git",
+    vercelLink: "https://comfy-store-pi-six.vercel.app/login",
+  },
 ];
 
 const template = document.querySelector("template");
