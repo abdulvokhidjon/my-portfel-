@@ -331,6 +331,12 @@ const projects = [
     githubLink: "https://github.com/abdulvokhidjon/comfy_store.git",
     vercelLink: "https://comfy-store-pi-six.vercel.app/login",
   },
+  {
+    title: "Mortgage Calculator Project |  8.2-homework",
+    githubLink:
+      "https://github.com/abdulvokhidjon/mortgage-repayment-calculator.git",
+    vercelLink: "https://mortgage-repayment-calculator-smoky.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
