@@ -335,7 +335,7 @@ const projects = [
     title: "Mortgage Calculator Project |  8.2-homework",
     githubLink:
       "https://github.com/abdulvokhidjon/mortgage-repayment-calculator.git",
-    vercelLink: "https://mortgage-repayment-calculator-smoky.vercel.app/",
+    vercelLink: "https://mortgage-repayment-calculator-fn23.vercel.app/",
   },
 ];
 
