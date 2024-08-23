@@ -318,8 +318,8 @@ const projects = [
   },
   {
     title: "Read Book App |  7.8-homework",
-    githubLink: "https://github.com/abdulvokhidjon/ReadBookApp.git",
-    vercelLink: "https://read-book-app.vercel.app/",
+    githubLink: "https://github.com/abdulvokhidjon/read-book_.git",
+    vercelLink: "https://read-book-ten.vercel.app/",
   },
   {
     title: "Dojo Helpdesk |  7.10-homework",
