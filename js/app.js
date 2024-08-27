@@ -337,6 +337,16 @@ const projects = [
       "https://github.com/abdulvokhidjon/mortgage-repayment-calculator.git",
     vercelLink: "https://mortgage-repayment-calculator-fn23.vercel.app/",
   },
+  {
+    title: "Random advice generator Project | 8.4.1-homework",
+    githubLink: "https://github.com/abdulvokhidjon/Random-advice.git",
+    vercelLink: "https://random-advice-generator-indol.vercel.app/",
+  },
+  {
+    title: "Github user search app | 8.4.2-homework",
+    githubLink: "https://github.com/abdulvokhidjon/octocat.git",
+    vercelLink: "https://octocat-github.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
