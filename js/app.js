@@ -328,7 +328,7 @@ const projects = [
   },
   {
     title: "Dojo Helpdesk |  7.11-homework",
-    githubLink: "https://github.com/abdulvokhidjon/dojo-7.10-homework.git",
+    githubLink: "https://github.com/abdulvokhidjon/Basket---6.10-homework.git",
     // vercelLink: "https://read-book-app.vercel.app/",
   },
   {
@@ -350,6 +350,11 @@ const projects = [
   {
     title: "Github user search app | 8.4.2-homework",
     githubLink: "https://github.com/abdulvokhidjon/octocat.git",
+    vercelLink: "https://octocat-github.vercel.app/",
+  },
+  {
+    title: "Tip Calculator app | 8.5-homework",
+    githubLink: "https://github.com/abdulvokhidjon/tip-calculator.git",
     vercelLink: "https://octocat-github.vercel.app/",
   },
 ];
