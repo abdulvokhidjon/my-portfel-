@@ -357,6 +357,11 @@ const projects = [
     githubLink: "https://github.com/abdulvokhidjon/tip-calculator.git",
     vercelLink: "https://octocat-github.vercel.app/",
   },
+  {
+    title: "Guess country app | 8.7-homework",
+    githubLink: "https://github.com/abdulvokhidjon/my-country-game.git",
+    vercelLink: "https://guess-country-game.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
