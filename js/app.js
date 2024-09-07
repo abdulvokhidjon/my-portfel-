@@ -362,6 +362,11 @@ const projects = [
     githubLink: "https://github.com/abdulvokhidjon/my-country-game.git",
     vercelLink: "https://guess-country-game.vercel.app/",
   },
+  {
+    title: "Flowers app | 8.8-homework",
+    githubLink: "https://github.com/abdulvokhidjon/flowers.git",
+    vercelLink: "https://flowers-app-kappa.vercel.app/login",
+  },
 ];
 
 const template = document.querySelector("template");
