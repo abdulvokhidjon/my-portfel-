@@ -363,7 +363,7 @@ const projects = [
     vercelLink: "https://guess-country-game.vercel.app/",
   },
   {
-    title: "Flowers app | 8.8-homework",
+    title: "Flowers app | Updated",
     githubLink: "https://github.com/abdulvokhidjon/flowers.git",
     vercelLink: "https://flowers-app-kappa.vercel.app/login",
   },
