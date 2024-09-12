@@ -364,8 +364,8 @@ const projects = [
   },
   {
     title: "Flowers app | Updated",
-    githubLink: "https://github.com/abdulvokhidjon/flowers.git",
-    vercelLink: "https://flowers-app-kappa.vercel.app/login",
+    githubLink: "https://github.com/abdulvokhidjon/guldasta-market.git",
+    vercelLink: "https://guldasta-market.vercel.app/",
   },
 ];
 
